@@ -1,1 +1,4 @@
 # ssh
+
+```
+ssh username@Ip
