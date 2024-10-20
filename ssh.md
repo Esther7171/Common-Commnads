@@ -5,5 +5,5 @@ ssh username@Ip
 ```
 
 ```
-ssh username@ip
+ssh username@ip -i id_rsa
 ```
